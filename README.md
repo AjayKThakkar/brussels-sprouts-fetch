@@ -1,4 +1,5 @@
 # brussels-sprouts-fetch
+Welcome to Brussels Sprouts Fetch!
 Run the following in your terminal to get started:
 
 ```sh
